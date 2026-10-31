@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><title>Mid Canterbury Animal Welfare Centre</title>
+<path d="M32,58 L22,8 L70,26 Z" fill="#17324A" stroke="#17324A" stroke-width="9" stroke-linejoin="round"/>
+<path d="M128,25 C144,6 172,4 184,20 C194,34 192,58 184,68 C178,74 172,68 168,58 Z" fill="#17324A" stroke="#17324A" stroke-width="6" stroke-linejoin="round"/>
+<clipPath id="c"><path d="M22,196 L22,96 A78,78 0 0 1 178,96 L178,196 Z"/></clipPath>
+<path d="M22,196 L22,96 A78,78 0 0 1 178,96 L178,196 Z" fill="#A9DAF3"/>
+<g clip-path="url(#c)">
+<path d="M10,146 L62,70 L84,100 L116,44 L160,112 L190,140 L190,146 Z" fill="#8EA9C3"/>
+<path d="M62,70 L50,88 L62,86 L74,86 Z M116,44 L101,70 L116,66 L131,70 Z" fill="#FFFFFF"/>
+<path d="M10,142 L190,142 L190,200 L10,200 Z" fill="#E3BB55"/>
+<path d="M94,142 C88,154 112,162 106,174 C102,184 82,188 78,200 L122,200 C130,186 134,176 128,164 C122,152 106,150 106,142 Z" fill="#2DB4BF"/>
+</g>
+<path d="M22,196 L22,96 A78,78 0 0 1 178,96 L178,196 Z" fill="none" stroke="#17324A" stroke-width="13" stroke-linejoin="round"/>
+</svg>
